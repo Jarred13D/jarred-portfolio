@@ -243,22 +243,26 @@ footer h2 {
 /* TODO: Add portfolio project images here using background images*/
 .run-buddy {
   background: url("../images/run-buddy-1.png");
+  background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .led-wall {
   background: url("../images/led-wall-1.png");
+  background-repeat: no-repeat;
   background-size: 100%;
 
 }
 
 .react-calc {
   background: url("../images/calculator-1.png");
+  background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .pastel-puzzles {
   background: url("../images/puzzle-1.png");
+  background-repeat: no-repeat;
   background-size: 100%;
 }
 
